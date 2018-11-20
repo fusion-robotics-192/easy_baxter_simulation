@@ -1,0 +1,5 @@
+baxter_simulator/baxter_sim_controllers
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_controllers/lib/libbaxter_sim_controllers.so /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/libbaxter_sim_controllers.so
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_controllers/lib/pkgconfig/baxter_sim_controllers.pc /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/pkgconfig/baxter_sim_controllers.pc
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_controllers/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig-version.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig-version.cmake
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_controllers/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig.cmake

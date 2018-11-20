@@ -1,0 +1,4 @@
+baxter_simulator/baxter_sim_examples
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_examples/lib/pkgconfig/baxter_sim_examples.pc /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/pkgconfig/baxter_sim_examples.pc
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_examples/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig.cmake
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_sim_examples/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig-version.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig-version.cmake

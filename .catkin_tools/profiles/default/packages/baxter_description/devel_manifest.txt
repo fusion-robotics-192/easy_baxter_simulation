@@ -1,0 +1,4 @@
+baxter_common/baxter_description
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_description/lib/pkgconfig/baxter_description.pc /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/pkgconfig/baxter_description.pc
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_description/cmake/baxter_descriptionConfig.cmake

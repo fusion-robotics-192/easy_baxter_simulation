@@ -1,0 +1,5 @@
+baxter_simulator/baxter_gazebo
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_gazebo/lib/libbaxter_gazebo_ros_control.so /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/libbaxter_gazebo_ros_control.so
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_gazebo/lib/pkgconfig/baxter_gazebo.pc /home/menson/sjsu_software/easy_baxter_simulation/devel/lib/pkgconfig/baxter_gazebo.pc
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake
+/home/menson/sjsu_software/easy_baxter_simulation/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake /home/menson/sjsu_software/easy_baxter_simulation/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake
