@@ -40,5 +40,5 @@ You should be able to see the Baxter wobbles its arm.
 
 
 ## Credit
-This is a simple version of Vicarious' simulator, where I pre-downloaded all the necessary files
+This is a simple version of Vicarious' simulator, where I pre-downloaded all the necessary files from 
 [Vicarious AI's Kinetic Baxter Simulator](https://github.com/vicariousinc/baxter_simulator)
