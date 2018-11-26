@@ -15,7 +15,7 @@ $ sudo apt-get install gazebo7 libgazebo7-dev
 ```
 $ sudo apt-get -y install python-rosdep python-catkin-tools python-wstool  
 $ cd /easy_baxter_simulation
-$ rosdep install -y --from-paths . --ignore-src --rosdistro kinetic --as-root=apt:false
+$ rosdep install -y --from-paths . --ignore-src --rosdistro kinetic --as-root=apt:true
 $ catkin config --extend /opt/ros/kinetic --cmake-args -DCMAKE_BUILD_TYPE=Release
 $ catkin build
 ``` 
